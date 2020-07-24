@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.03fc4292.chunk.css",
-    "main.js": "/static/js/main.b1608216.chunk.js",
-    "main.js.map": "/static/js/main.b1608216.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9e15059f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9e15059f.js.map",
-    "static/js/2.98c0b94d.chunk.js": "/static/js/2.98c0b94d.chunk.js",
-    "static/js/2.98c0b94d.chunk.js.map": "/static/js/2.98c0b94d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1be0a074fbdf4ab1c83b6491cbceb5bd.js": "/precache-manifest.1be0a074fbdf4ab1c83b6491cbceb5bd.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.03fc4292.chunk.css.map": "/static/css/main.03fc4292.chunk.css.map",
-    "static/js/2.98c0b94d.chunk.js.LICENSE.txt": "/static/js/2.98c0b94d.chunk.js.LICENSE.txt"
+    "main.css": "/cf-leads-web/static/css/main.03fc4292.chunk.css",
+    "main.js": "/cf-leads-web/static/js/main.b1608216.chunk.js",
+    "main.js.map": "/cf-leads-web/static/js/main.b1608216.chunk.js.map",
+    "runtime-main.js": "/cf-leads-web/static/js/runtime-main.b9665d5f.js",
+    "runtime-main.js.map": "/cf-leads-web/static/js/runtime-main.b9665d5f.js.map",
+    "static/js/2.98c0b94d.chunk.js": "/cf-leads-web/static/js/2.98c0b94d.chunk.js",
+    "static/js/2.98c0b94d.chunk.js.map": "/cf-leads-web/static/js/2.98c0b94d.chunk.js.map",
+    "index.html": "/cf-leads-web/index.html",
+    "precache-manifest.f48e7eb090c45ab5edfbff49bd8d9f8e.js": "/cf-leads-web/precache-manifest.f48e7eb090c45ab5edfbff49bd8d9f8e.js",
+    "service-worker.js": "/cf-leads-web/service-worker.js",
+    "static/css/main.03fc4292.chunk.css.map": "/cf-leads-web/static/css/main.03fc4292.chunk.css.map",
+    "static/js/2.98c0b94d.chunk.js.LICENSE.txt": "/cf-leads-web/static/js/2.98c0b94d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e15059f.js",
+    "static/js/runtime-main.b9665d5f.js",
     "static/js/2.98c0b94d.chunk.js",
     "static/css/main.03fc4292.chunk.css",
     "static/js/main.b1608216.chunk.js"
